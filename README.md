@@ -3,7 +3,7 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+My name is Ahmed Elshenawy, a junior Mern stack developer who uses coding to operate on both front- and back-end systems. I am an ambitious and hardworking person, able to work with a variety of technology. I enjoy working with include Javascript, ReactJS, and MongoDB.
 
 - 🔭 I'm a mern stack developer 
 - 💬 Ask me about **ReactJs and Frontend**
