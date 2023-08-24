@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elshenawy</h1>
 <h3 align="center">A Junior Mern Stack Developer</h3>
+  
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-- 🔭 I’m currently working on **Mern stack Project**
+I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
 
+- 🔭 I'm a mern stack developer 
+- 💬 Ask me about **ReactJs and Frontend**
 - 📫 How to reach me **https://www.linkedin.com/in/ahmed-elshenawy-134a81234/**
 
 - ⚡ Fun fact **I think I am funny**
