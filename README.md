@@ -3,7 +3,7 @@
 <div>
   <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="100%" height="600px" align="center" />
 </div>
- 
+
 <h3 align="left">Languages and Tools:</h3>
 <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
