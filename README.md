@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elshenawy</h1>
-<h3 align="center">A passionate frontend developA passionate Mern Stack developerer from India</h3>
+<h3 align="center">A passionate Mern Stack developerer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
